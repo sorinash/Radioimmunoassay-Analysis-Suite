@@ -19,7 +19,7 @@ Users input commands via the command line. A number of said commands do not requ
 Full analysis of RIA data requires two separate files, namely an input and a reference. 
 
 * The input file contains two columns, namely the labels for each sample, and the CPM measured in said sample. 
-** The input file must contain samples for Total, Non-Specific Binding, and B0 (which has antibody, radiation, and charcoal, but no sample provided). It also must contain 9 triplicate measurements of pre-measured corticosterone standards, which are used to generate a standard curve. The user should also provide 15 quality control samples to measure experimenter error.
+* The input file must contain samples for Total, Non-Specific Binding, and B0 (which has antibody, radiation, and charcoal, but no sample provided). It also must contain 9 triplicate measurements of pre-measured corticosterone standards, which are used to generate a standard curve. The user should also provide 15 quality control samples to measure experimenter error.
 * The reference file contains four columns, namely the stress condition, sex, genotype, and treatment for each sample. 
 
 An input file resembles the following:
