@@ -23,9 +23,11 @@ Full analysis of RIA data requires two separate files, namely an input and a ref
 * The reference file contains four columns, namely the stress condition, sex, genotype, and treatment for each sample. 
 
 An input file resembles the following:
+
 ![image](https://user-images.githubusercontent.com/50304901/111375626-799f3900-866c-11eb-95ca-f03599774dba.png)
 
-A reference file resembles the following
+A reference file resembles the following:
+
 ![image](https://user-images.githubusercontent.com/50304901/111375645-8328a100-866c-11eb-953d-348ffe77c270.png)
 
 When performing analysis, the following commands are usable:
